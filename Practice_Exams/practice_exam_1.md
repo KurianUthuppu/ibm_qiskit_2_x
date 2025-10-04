@@ -10,7 +10,7 @@ Given an instance of `qiskit_ibm_runtime.EstimatorV2` called `estimator`, which 
 
 **Question 2:**  
 Which one of the following patterns, expressed in terms of array broadcasting primitives, is represented by the given image?
-![alt text](../Images/broadcasting.png)
+![Broadcasting Visualization](../Images/broadcasting.png)
 ○ A. Standard nd generalization
 ○ B. Outer/Product  
 ○ C. Broadcast single observable  
@@ -61,7 +61,7 @@ Which two of the following code fragments create a `QuantumCircuit` with 2 class
 
 **Question 7:**  
 Looking at the Bloch sphere visualization showing `|01⟩` and `|10⟩` states, which code would produce this quantum state?
-![alt text](../Images/qsphere.png)
+![QSphere State](../Images/qsphere.png)
 ○ A.  
 `qc = QuantumCircuit(2)`  
 `qc.x(1)`  
