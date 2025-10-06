@@ -1,6 +1,29 @@
-# Qiskit 2.X Certification Exam - Sample Questions with Detailed Solutions
+# Qiskit 2.X Certification Exam | Practice Exam - 1
 
----
+## Answer Keys:
+
+Question 1: C
+Question 2: A
+Question 3: D
+Question 4: B
+Question 5: A
+Question 6: C and D
+Question 7: D
+Question 8: B
+Question 9: A
+Question 10: A
+Question 11: B
+Question 12: C
+Question 13: C
+Question 14: C
+Question 15: D
+Question 16: B
+Question 17: A
+Question 18: B
+Question 19: B and D
+Question 20: D
+
+## Detailed Solutions
 
 ## **Question 1: EstimatorV2 Resilience Levels**
 

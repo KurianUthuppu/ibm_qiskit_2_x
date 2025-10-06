@@ -47,6 +47,11 @@ An **IBM Certified Quantum Computational Scientist** is an individual who:
 
 ---
 
+## 📁 Navigation Guide
+
+- **Practice Exams:** Navigate to the `practice_exams/` folder to find question sets (e.g., `practice_exam_1.md`)
+- **Solutions:** Find corresponding answer keys and detailed explanations in the `solutions/` folder with matching names (e.g., `answer_key_practice_exam_1.md`)
+
 ## 🧩 How to Use
 
 1. Clone this repository:
