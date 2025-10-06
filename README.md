@@ -33,7 +33,7 @@ An **IBM Certified Quantum Computational Scientist** is an individual who:
 - **Section 5 — Use the sampler primitive:** _12%_
 - **Section 6 — Use the estimator primitive:** _12%_
 - **Section 7 — Retrieve & analyze results:** _10%_
-- **Section 8 — Operate with OpenQASM**
+- **Section 8 — Operate with OpenQASM** _6%_
 
 > _For complete details, see the [official IBM certification page](https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400)._
 

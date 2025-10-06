@@ -124,10 +124,10 @@ vector = np.sqrt([1/2, 1/2])
 qc.initialize(vector, 0)
 ```
 
-○ A. plot_bloch_vector([0, np.pi/2, 0],coord_type='spherical')  
+○ A. plot_bloch_vector([1, np.pi/2, 0],coord_type='spherical')  
 ○ B. plot_bloch_vector([0, 1, 0])  
 ○ C. plot_bloch_vector([0, 0, 1])  
-○ D. plot_bloch_vector([0, 0, np.pi/2],coord_type='spherical')
+○ D. plot_bloch_vector([1, 0, np.pi/2],coord_type='spherical')
 
 **Question 11:**  
 In which quantum state will the qubit be as a result of the following code?
