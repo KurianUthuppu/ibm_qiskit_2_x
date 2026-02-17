@@ -15,7 +15,7 @@ Each notebook includes theory background, step-by-step circuit construction, har
 
 ### Practice Exams
 
-Preparation material for the **IBM Certified Associate Developer — Quantum Computation using Qiskit v2.X** exam (C1000-179). Includes practice questions with detailed solutions. See the [practice exams README](Practice_exams/README.md) for the full breakdown.
+Preparation material for the **IBM Certified Associate Developer — Quantum Computation using Qiskit v2.X** exam (C1000-179). Includes practice questions with detailed solutions. See the [practice exams README](Practice_Exams/README.md) for the full breakdown.
 
 ## Prerequisites
 
