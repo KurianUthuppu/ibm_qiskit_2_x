@@ -1,21 +1,16 @@
 # IBM Qiskit 2.X
 
-A hands-on repository for quantum computing with **Qiskit 2.X** — exploring real-hardware experiments, fault-tolerant concepts, and IBM certification preparation. Notebooks are written with clear explanations aimed at quantum hobbyists and researchers.
+A hands-on repository for quantum computing with **Qiskit 2.x** — covering quantum algorithms, error correction, machine learning, hardware experiments, and IBM certification preparation. Notebooks are written with clear theory, step-by-step circuit construction, and result analysis.
 
-## What's Inside
+## Repository Structure
 
-### Lab
+### [`lab/`](lab/)
 
-Jupyter notebooks with end-to-end experiments executed on **IBM Quantum hardware**. Topics include:
+Jupyter notebooks exploring a growing range of quantum computing topics — from foundational concepts to advanced techniques. Each notebook typically includes mathematical background, Qiskit 2.x implementation, simulation or hardware execution, and visualization.
 
-- **Fault-Tolerant Quantum Computing** — magic states, Eastin-Knill theorem, magic state distillation
-- **Dynamic Circuits** — mid-circuit measurement, classical feedforward, gate teleportation, long-range entanglement (LRCX protocol)
+### [`practice_exams/`](practice_exams/)
 
-Each notebook includes theory background, step-by-step circuit construction, hardware execution, and result analysis.
-
-### Practice Exams
-
-Preparation material for the **IBM Certified Associate Developer — Quantum Computation using Qiskit v2.X** exam (C1000-179). Includes practice questions with detailed solutions. See the [practice exams README](Practice_Exams/README.md) for the full breakdown.
+Preparation material for the **IBM Certified Associate Developer — Quantum Computation using Qiskit v2.X** exam (C1000-179). Includes practice questions with detailed solutions. See the [practice exams README](practice_exams/README.md) for details.
 
 ## Prerequisites
 
